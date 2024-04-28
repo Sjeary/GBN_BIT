@@ -1,0 +1,5 @@
+SEND_FILE_NAME:1.jpg
+begin_send_time=1714219990.3879783
+1,pdu_to_send=0,status=New,ackedNo=0
+2,pdu_to_send=1,status=New,ackedNo=0
+finish_send_time=1714219992.9858549

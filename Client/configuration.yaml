@@ -1,0 +1,11 @@
+Server:
+  Host : '127.0.0.2'
+  Port : 43271
+Client:
+  Host : '127.0.0.1'
+  Port : 43271
+DataSize: 1024
+ErrorRate: 10
+LostRate: 10
+SWSize: 4
+Timeout: 20
