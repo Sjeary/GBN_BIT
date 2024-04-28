@@ -1,7 +1,0 @@
-RECEIVE_FILE_NAME:1.txt
-begin_receive_time=1714230498.2102284
-1,pdu_exp=0,pdu_recv=0,status=OK
-2,pdu_exp=1,pdu_recv=1,status=OK
-3,pdu_exp=2,pdu_recv=2,status=DataErr
-4,pdu_exp=2,pdu_recv=3,status=NoErr
-end_receive_time=1714230498.327745
